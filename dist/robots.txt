@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-home-pros-of-miami-inc.dream-surge.com/sitemap-index.xml

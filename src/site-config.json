@@ -1,0 +1,601 @@
+{
+  "business": {
+    "name": "Home Pros Of Miami, Inc",
+    "phone": "+17867121651",
+    "category": "plumbing company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Plumbing Experts",
+      "heroSubline": "Reliable plumbing solutions for homes and businesses across Miami-Dade and Broward counties. Emergency service available 24/7. Call us now!",
+      "aboutTitle": "Decades of Miami Plumbing Expertise",
+      "aboutText": [
+        "Home Pros Of Miami, Inc., was founded on the principle of providing honest, dependable plumbing services to our neighbors. We've seen it all, from historic Art Deco buildings in South Beach to modern condos in Brickell, and understand the unique plumbing challenges presented by Miami's climate and architecture.",
+        "Our approach is simple: diagnose the problem accurately, explain the options clearly, and execute the repair or installation with precision. We use only quality parts and materials, and stand behind our work with a solid guarantee. We're not just plumbers; we're problem solvers.",
+        "We're committed to serving the Miami community, and regularly volunteer our time and resources to local charities. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Plumbing emergencies don't wait for business hours, and neither do we. Call us anytime, day or night."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "Protecting your property and providing peace of mind is our top priority. We're fully licensed and insured."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team of skilled plumbers has the knowledge and experience to handle any plumbing issue."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Plumbing Estimate Today!",
+      "ctaSubline": "Contact Home Pros Of Miami, Inc., for reliable, affordable plumbing services."
+    },
+    "services": [
+      {
+        "slug": "leak-detection",
+        "name": "Leak Detection",
+        "shortDescription": "Pinpointing hidden leaks to prevent water damage and save you money.",
+        "description": "Undetected leaks can wreak havoc on your Miami property, leading to structural damage, mold growth, and skyrocketing water bills. Home Pros Of Miami, Inc., employs advanced leak detection technology to accurately locate hidden leaks behind walls, under floors, and in your yard. We use thermal imaging, acoustic listening devices, and video camera inspections to minimize disruption and pinpoint the source of the problem quickly and efficiently.\n\nOnce the leak is located, we'll provide a comprehensive repair plan and transparent pricing. We handle everything from minor pipe repairs to complete re-piping, ensuring the job is done right the first time. Don't let a hidden leak drain your wallet and damage your property. Call us today for a professional leak detection service.",
+        "process": [
+          "Step 1: Initial Assessment and Inspection",
+          "Step 2: Advanced Leak Detection Techniques (Thermal Imaging, Acoustic Listening)",
+          "Step 3: Precise Leak Location and Documentation",
+          "Step 4: Repair Plan and Cost Estimate"
+        ],
+        "benefits": [
+          "Prevent Water Damage and Mold Growth",
+          "Lower Water Bills",
+          "Protect Your Property Value",
+          "Accurate and Non-Invasive Leak Detection"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I have a hidden leak?",
+            "answer": "Signs of a hidden leak include unexplained increases in your water bill, damp spots on walls or ceilings, and the sound of running water when all fixtures are off. If you suspect a leak, call us immediately."
+          },
+          {
+            "question": "What technology do you use to detect leaks?",
+            "answer": "We use a variety of advanced technologies, including thermal imaging cameras, acoustic listening devices, and video camera inspections, to pinpoint the source of the leak without causing unnecessary damage."
+          },
+          {
+            "question": "How much does leak detection cost?",
+            "answer": "The cost of leak detection varies depending on the complexity of the situation. We provide free estimates, so call us today to schedule an inspection."
+          }
+        ]
+      },
+      {
+        "slug": "drain-cleaning",
+        "name": "Drain Cleaning",
+        "shortDescription": "Clearing clogged drains and restoring proper flow to your plumbing system.",
+        "description": "Clogged drains are a common nuisance in Miami homes and businesses, often caused by grease, hair, and other debris accumulating in the pipes. Home Pros Of Miami, Inc., offers comprehensive drain cleaning services to clear blockages and restore proper flow to your plumbing system. We use professional-grade equipment, including drain snakes and hydro-jetting technology, to effectively remove even the toughest clogs.\n\nOur experienced plumbers can handle any drain cleaning job, from simple sink clogs to complex sewer line blockages. We also offer preventative maintenance services to help keep your drains clear and prevent future clogs. Don't let a clogged drain disrupt your day. Call us for fast, reliable drain cleaning services.",
+        "process": [
+          "Step 1: Drain Inspection and Diagnosis",
+          "Step 2: Drain Cleaning Using Appropriate Equipment (Drain Snake, Hydro-Jetting)",
+          "Step 3: Debris Removal and System Flushing",
+          "Step 4: Flow Testing and Verification"
+        ],
+        "benefits": [
+          "Eliminate Clogged Drains",
+          "Restore Proper Water Flow",
+          "Prevent Future Blockages",
+          "Extend the Life of Your Plumbing System"
+        ],
+        "faq": [
+          {
+            "question": "What causes clogged drains?",
+            "answer": "Clogged drains are typically caused by the accumulation of grease, hair, soap scum, and other debris in the pipes. In older Miami homes, tree root intrusion can also be a major factor."
+          },
+          {
+            "question": "Can I use chemical drain cleaners?",
+            "answer": "We do not recommend using chemical drain cleaners, as they can damage your pipes and pose a health hazard. Our professional drain cleaning services are a safer and more effective solution."
+          },
+          {
+            "question": "How often should I have my drains cleaned?",
+            "answer": "The frequency of drain cleaning depends on your usage and the age of your plumbing system. We recommend scheduling a preventative maintenance cleaning at least once a year."
+          }
+        ]
+      },
+      {
+        "slug": "water-heater-repair",
+        "name": "Water Heater Repair & Installation",
+        "shortDescription": "Expert repair and installation of all types of water heaters, including tankless models.",
+        "description": "A malfunctioning water heater can disrupt your daily routine and cause significant inconvenience. Home Pros Of Miami, Inc., provides expert water heater repair and installation services for all types of water heaters, including traditional tank models and energy-efficient tankless systems. We understand the importance of having a reliable source of hot water, and we're committed to providing prompt and efficient service.\n\nOur experienced technicians can diagnose and repair any water heater issue, from leaks and temperature problems to complete system failures. We also offer professional installation services for new water heaters, ensuring proper installation and optimal performance. We'll help you choose the right water heater for your needs and budget, and we'll handle all aspects of the installation process. Given Miami's intense heat and humidity, a properly functioning water heater is crucial for comfortable living.",
+        "process": [
+          "Step 1: Water Heater Inspection and Diagnosis",
+          "Step 2: Repair or Replacement Recommendation",
+          "Step 3: Professional Installation (if needed)",
+          "Step 4: System Testing and Verification"
+        ],
+        "benefits": [
+          "Reliable Hot Water Supply",
+          "Energy Efficiency",
+          "Extended Water Heater Lifespan",
+          "Expert Installation and Repair"
+        ],
+        "faq": [
+          {
+            "question": "How long do water heaters typically last?",
+            "answer": "Traditional tank water heaters typically last 8-12 years, while tankless water heaters can last 20 years or more. Regular maintenance can extend the lifespan of your water heater."
+          },
+          {
+            "question": "What are the benefits of a tankless water heater?",
+            "answer": "Tankless water heaters provide on-demand hot water, are more energy-efficient, and have a longer lifespan than traditional tank models. They're a great option for Miami homes looking to save money on energy bills."
+          },
+          {
+            "question": "How do I know if my water heater needs to be replaced?",
+            "answer": "Signs that your water heater needs to be replaced include frequent leaks, rust-colored water, and inconsistent water temperature."
+          }
+        ]
+      },
+      {
+        "slug": "pipe-repair-replacement",
+        "name": "Pipe Repair & Replacement",
+        "shortDescription": "Addressing leaky, corroded, or damaged pipes to prevent water damage and maintain water quality.",
+        "description": "Leaky, corroded, or damaged pipes can cause significant water damage and compromise the quality of your water supply. Home Pros Of Miami, Inc., offers comprehensive pipe repair and replacement services to address any plumbing issue. We understand the unique challenges presented by Miami's salt air and aging infrastructure, and we use durable, corrosion-resistant materials to ensure long-lasting repairs.\n\nOur experienced plumbers can handle any pipe repair or replacement job, from minor leaks to complete re-piping projects. We use a variety of techniques, including traditional soldering and modern PEX piping, to ensure a secure and reliable connection. We'll work closely with you to minimize disruption and ensure the job is done right the first time. Don't let leaky pipes damage your property. Call us for fast, reliable pipe repair and replacement services.",
+        "process": [
+          "Step 1: Pipe Inspection and Leak Detection",
+          "Step 2: Repair or Replacement Recommendation",
+          "Step 3: Pipe Repair or Replacement Using Appropriate Materials",
+          "Step 4: System Testing and Verification"
+        ],
+        "benefits": [
+          "Prevent Water Damage and Mold Growth",
+          "Maintain Water Quality",
+          "Improve Water Pressure",
+          "Extend the Life of Your Plumbing System"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a leaky pipe?",
+            "answer": "Signs of a leaky pipe include water stains on walls or ceilings, damp spots on floors, and a musty odor. You may also notice a sudden increase in your water bill."
+          },
+          {
+            "question": "What types of pipes do you repair and replace?",
+            "answer": "We repair and replace all types of pipes, including copper, PVC, PEX, and galvanized steel. We'll recommend the best material for your specific needs and budget."
+          },
+          {
+            "question": "How much does pipe repair or replacement cost?",
+            "answer": "The cost of pipe repair or replacement varies depending on the extent of the damage and the type of pipe. We provide free estimates, so call us today to schedule an inspection."
+          }
+        ]
+      },
+      {
+        "slug": "sewer-line-services",
+        "name": "Sewer Line Services",
+        "shortDescription": "Comprehensive sewer line inspection, repair, and replacement for residential and commercial properties.",
+        "description": "A damaged sewer line can cause a host of problems, including sewage backups, foul odors, and potential health hazards. Home Pros Of Miami, Inc., offers comprehensive sewer line services to address any issue, from minor repairs to complete replacements. We use advanced technology, including video camera inspections, to accurately diagnose the problem and recommend the most effective solution.\n\nOur experienced plumbers can handle any sewer line job, from clearing blockages to repairing cracks and breaks. We also offer trenchless sewer line replacement, a minimally invasive technique that can save you time and money. We understand the importance of a properly functioning sewer line, and we're committed to providing prompt and reliable service. Living near the coast in Miami means dealing with shifting soil and potential saltwater intrusion, making regular sewer line maintenance even more crucial.",
+        "process": [
+          "Step 1: Sewer Line Inspection with Video Camera",
+          "Step 2: Diagnosis of Sewer Line Issue",
+          "Step 3: Repair or Replacement Recommendation (Including Trenchless Options)",
+          "Step 4: Sewer Line Repair or Replacement",
+          "Step 5: System Testing and Verification"
+        ],
+        "benefits": [
+          "Prevent Sewage Backups and Health Hazards",
+          "Eliminate Foul Odors",
+          "Maintain Property Value",
+          "Offer Trenchless Sewer Line Replacement Options"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of a sewer line problem?",
+            "answer": "Signs of a sewer line problem include sewage backups, slow-draining toilets, and a foul odor in your yard. You may also notice gurgling sounds coming from your drains."
+          },
+          {
+            "question": "What is trenchless sewer line replacement?",
+            "answer": "Trenchless sewer line replacement is a minimally invasive technique that allows us to replace your sewer line without digging up your yard. This can save you time and money, and minimize disruption to your property."
+          },
+          {
+            "question": "How much does sewer line repair or replacement cost?",
+            "answer": "The cost of sewer line repair or replacement varies depending on the extent of the damage and the location of the sewer line. We provide free estimates, so call us today to schedule an inspection."
+          }
+        ]
+      },
+      {
+        "slug": "fixture-installation",
+        "name": "Fixture Installation",
+        "shortDescription": "Professional installation of faucets, sinks, toilets, showers, and other plumbing fixtures.",
+        "description": "Upgrading your plumbing fixtures can enhance the look and functionality of your home while also improving water efficiency. Home Pros Of Miami, Inc., offers professional fixture installation services for faucets, sinks, toilets, showers, and other plumbing fixtures. We understand the importance of proper installation, and we're committed to providing meticulous service.\n\nOur experienced plumbers can handle any fixture installation job, from simple faucet replacements to complete bathroom renovations. We'll ensure that your new fixtures are installed correctly and that all connections are secure. We'll also dispose of your old fixtures in an environmentally responsible manner. Whether you're updating your kitchen, bathroom, or laundry room, we're here to help. Given Miami's diverse architectural styles, we're experienced in installing fixtures in a wide range of homes.",
+        "process": [
+          "Step 1: Fixture Selection and Planning",
+          "Step 2: Removal of Old Fixtures",
+          "Step 3: Professional Installation of New Fixtures",
+          "Step 4: System Testing and Verification"
+        ],
+        "benefits": [
+          "Enhanced Home Aesthetics",
+          "Improved Water Efficiency",
+          "Increased Home Value",
+          "Professional and Meticulous Installation"
+        ],
+        "faq": [
+          {
+            "question": "What types of fixtures do you install?",
+            "answer": "We install all types of plumbing fixtures, including faucets, sinks, toilets, showers, bathtubs, and garbage disposals."
+          },
+          {
+            "question": "Can you help me choose the right fixtures for my home?",
+            "answer": "Yes, we can provide expert advice and recommendations to help you choose the right fixtures for your needs and budget. We can also help you find fixtures that complement your home's style."
+          },
+          {
+            "question": "How much does fixture installation cost?",
+            "answer": "The cost of fixture installation varies depending on the type of fixture and the complexity of the installation. We provide free estimates, so call us today to schedule an appointment."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-plumbing",
+        "name": "Emergency Plumbing Services",
+        "shortDescription": "24/7 emergency plumbing services for urgent plumbing issues that need immediate attention.",
+        "description": "Plumbing emergencies can strike at any time, causing significant damage and disruption to your home or business. Home Pros Of Miami, Inc., offers 24/7 emergency plumbing services to address urgent plumbing issues that need immediate attention. We understand the stress and anxiety that plumbing emergencies can cause, and we're committed to providing prompt and reliable service, day or night.\n\nOur experienced plumbers are available around the clock to handle any plumbing emergency, from burst pipes and sewage backups to overflowing toilets and water heater failures. We'll arrive quickly, assess the situation, and take immediate action to minimize damage and restore your plumbing system. Don't hesitate to call us when you need us most. Miami's hurricane season can lead to increased plumbing emergencies, making it crucial to have a reliable emergency plumber on call.",
+        "process": [
+          "Step 1: Immediate Response to Emergency Call",
+          "Step 2: Rapid On-Site Assessment",
+          "Step 3: Emergency Plumbing Repair",
+          "Step 4: Damage Mitigation and Prevention"
+        ],
+        "benefits": [
+          "24/7 Availability",
+          "Rapid Response Time",
+          "Expert Emergency Plumbing Repairs",
+          "Minimization of Property Damage"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a plumbing emergency?",
+            "answer": "A plumbing emergency is any plumbing issue that requires immediate attention to prevent further damage or health hazards. Examples include burst pipes, sewage backups, and overflowing toilets."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible. Our response time depends on our current workload and your location, but we typically arrive within an hour."
+          },
+          {
+            "question": "What should I do while waiting for the plumber to arrive?",
+            "answer": "While waiting for the plumber to arrive, turn off the water supply to the affected area, if possible. Also, try to contain any leaks or spills to minimize damage."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc is proud to offer comprehensive plumbing services to the residents of Fort Lauderdale, Florida. Known for its beautiful waterfront homes, many of which were built in the 1960s and 70s, Fort Lauderdale presents unique plumbing challenges. Our experienced technicians are well-versed in handling the specific needs of these older properties, from pipe repairs and replacements to fixture upgrades and water heater services.\n\nWith year-round heat and humidity, Fort Lauderdale homes require reliable plumbing systems to ensure comfort and prevent water damage. We understand the importance of prompt and efficient service, and we're committed to providing top-quality workmanship at competitive prices. Whether you're dealing with a leaky faucet, a clogged drain, or a more complex plumbing issue, Home Pros Of Miami, Inc is here to help.",
+        "localContext": "Fort Lauderdale's canal-lined properties often require specialized plumbing knowledge, and Home Pros Of Miami, Inc is equipped to handle these unique challenges.",
+        "nearbyAreas": [
+          "Wilton Manors",
+          "Oakland Park",
+          "Lauderdale-by-the-Sea"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc provides expert plumbing services to the families and businesses of Coral Springs, Florida. As a planned community developed primarily in the 1980s and 90s, Coral Springs features a wide range of residential properties. Our skilled plumbers are experienced in working with the plumbing systems common in these homes, offering services such as leak detection, drain cleaning, water heater installation, and more.\n\nThe year-round heat and humidity in Coral Springs can put a strain on plumbing systems, making regular maintenance essential. Home Pros Of Miami, Inc is dedicated to helping you keep your plumbing in top condition, preventing costly repairs and ensuring your home's comfort and safety. We offer prompt, reliable service and are committed to exceeding your expectations.",
+        "localContext": "Coral Springs' planned community design often includes consistent plumbing layouts, allowing Home Pros Of Miami, Inc to efficiently diagnose and resolve common issues.",
+        "nearbyAreas": [
+          "Parkland",
+          "Coconut Creek",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc is your trusted plumbing partner in Pembroke Pines, Florida. With its numerous planned developments built primarily in the 1990s, Pembroke Pines boasts a diverse range of homes and businesses. We are experts at servicing plumbing systems commonly found in these homes, offering services like plumbing inspections, repairs, and installations.\n\nThe hot and humid climate of Pembroke Pines means that plumbing systems are constantly challenged. Home Pros Of Miami, Inc is dedicated to providing top-quality plumbing solutions to keep your home running smoothly. From routine maintenance to emergency repairs, we're here to help with all your plumbing needs.",
+        "localContext": "Pembroke Pines' newer construction offers opportunities for modern plumbing upgrades, and Home Pros Of Miami, Inc stays up-to-date with the latest technologies.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc is pleased to offer premium plumbing services to the discerning residents of Boca Raton, Florida. Known for its luxury waterfront estates and upscale communities, Boca Raton demands the highest standards of quality and professionalism. We specialize in meeting the unique plumbing needs of these high-end properties, providing services such as custom plumbing installations, advanced leak detection, and water filtration systems.\n\nThe year-round heat and humidity in Boca Raton require robust and reliable plumbing systems. Home Pros Of Miami, Inc is committed to ensuring your plumbing is operating at peak performance, protecting your investment and ensuring your comfort. We offer discreet, efficient service and are dedicated to exceeding your expectations.",
+        "localContext": "Boca Raton's luxury properties often feature complex plumbing systems requiring specialized expertise, and Home Pros Of Miami, Inc is equipped to handle these challenges.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Highland Beach",
+          "Deerfield Beach"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc is dedicated to serving the plumbing needs of West Palm Beach, Florida. With its rich history and many homes dating back to the 1920s-50s, West Palm Beach presents unique plumbing challenges. Our experienced technicians are skilled in working with the older plumbing systems found in these historic homes, providing services such as pipe restoration, fixture repair, and water heater replacement.\n\nThe year-round heat and humidity in West Palm Beach can accelerate the deterioration of plumbing systems, making regular maintenance essential. Home Pros Of Miami, Inc is committed to helping you preserve the integrity of your plumbing, preventing costly repairs and ensuring your home's comfort and value. We offer prompt, reliable service and are dedicated to preserving the character of your historic home.",
+        "localContext": "West Palm Beach's older homes often require specialized plumbing techniques, and Home Pros Of Miami, Inc is experienced in preserving the integrity of these historic systems.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami",
+        "slug": "miami-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc. is your premier plumbing service provider in the vibrant city of Miami, Florida. From bustling downtown condos to historic homes in Coconut Grove, we cater to diverse plumbing needs across the city. Our team of licensed plumbers is equipped to handle everything from routine maintenance to complex repairs and installations.\n\nWith Miami's tropical climate and frequent heavy rains, ensuring your plumbing is in top condition is crucial. We offer a comprehensive range of services, including leak detection, drain cleaning, water heater services, and more, to keep your home or business running smoothly. We are committed to providing prompt, reliable, and affordable plumbing solutions to the Miami community.",
+        "localContext": "Miami's diverse architecture and unique environmental conditions require a deep understanding of local plumbing codes and best practices, which Home Pros Of Miami, Inc. provides.",
+        "nearbyAreas": [
+          "Coral Gables",
+          "Miami Beach",
+          "Hialeah"
+        ]
+      },
+      {
+        "city": "Hialeah",
+        "slug": "hialeah-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc. proudly serves the bustling community of Hialeah, Florida, offering a full spectrum of plumbing services. Known for its vibrant culture and diverse housing, Hialeah presents unique plumbing needs that our experienced team is well-equipped to handle.\n\nWe understand the importance of reliable plumbing in Hialeah's hot and humid climate. From fixing leaky faucets to installing energy-efficient water heaters, we are dedicated to providing top-notch service at competitive prices. Our goal is to ensure your plumbing system functions flawlessly, providing you with peace of mind.",
+        "localContext": "Hialeah's densely populated neighborhoods demand efficient and reliable plumbing solutions, and Home Pros Of Miami, Inc. is committed to providing timely and effective service to its residents.",
+        "nearbyAreas": [
+          "Miami Lakes",
+          "Doral",
+          "Hialeah Gardens"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc. is your trusted plumbing expert in Miramar, Florida, providing comprehensive plumbing solutions for residential and commercial properties. As a growing city with a mix of older and newer homes, Miramar requires a plumbing service that is both experienced and adaptable.\n\nWe offer a wide array of services to meet the specific needs of Miramar residents, including drain cleaning, leak repairs, water heater installations, and more. Our commitment to quality workmanship and customer satisfaction makes us the go-to plumbing provider in the area. We understand the unique challenges posed by the South Florida climate and are dedicated to keeping your plumbing system in optimal condition.",
+        "localContext": "Miramar's rapid growth requires proactive plumbing maintenance to prevent issues and ensure the longevity of plumbing systems, a service that Home Pros Of Miami, Inc. specializes in.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Weston"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Home Pros Of Miami, Inc. is proud to provide top-tier plumbing services to the residents and businesses of Hollywood, Florida. With a mix of historic architecture and modern developments, Hollywood presents a diverse range of plumbing needs that our skilled technicians are fully prepared to address.\n\nOur comprehensive services include everything from routine maintenance and repairs to complex installations and renovations. We understand the importance of reliable plumbing in Hollywood's warm, humid climate and are committed to delivering prompt, efficient, and affordable solutions. Whether you're dealing with a leaky pipe or planning a bathroom remodel, Home Pros Of Miami, Inc. is here to help.",
+        "localContext": "Hollywood's coastal location and diverse building styles require a plumbing service that is knowledgeable about local codes and environmental factors, which Home Pros Of Miami, Inc. provides with expertise.",
+        "nearbyAreas": [
+          "Hallandale Beach",
+          "Dania Beach",
+          "Pembroke Pines"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Water Heater Replacement",
+        "text": "Our old water heater finally gave out. Home Pros Of Miami, Inc., came out the same day and replaced it with a new, energy-efficient model. The technician, Carlos, was very professional and explained everything clearly. Highly recommend!",
+        "date": "2025-05-12"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Drain Cleaning",
+        "text": "Had a slow-draining kitchen sink for weeks. They cleared the clog quickly and efficiently. The plumber even gave me some tips on how to prevent future clogs. Very satisfied.",
+        "date": "2025-04-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Leak Detection & Repair",
+        "text": "I suspected a leak behind my shower wall. Home Pros Of Miami, Inc., used thermal imaging to pinpoint the exact location and repaired the pipe with minimal disruption. They saved me a lot of money by finding it early!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Sewer Line Repair",
+        "text": "We had a major sewer line backup in our Little Havana home. The team at Home Pros Of Miami, Inc., were incredibly responsive and professional. They quickly diagnosed the problem and repaired the line with minimal disruption to our property. A stressful situation handled with expertise and care.",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Sarah P.",
+        "rating": 4,
+        "service": "Faucet Installation",
+        "text": "Needed a new faucet installed in my Coconut Grove bathroom. The plumber was on time, courteous, and did a great job. The new faucet looks fantastic!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Emergency Plumbing",
+        "text": "A pipe burst in the middle of the night! Home Pros Of Miami, Inc., answered my call immediately and had someone at my Brickell condo within an hour. They fixed the pipe quickly and prevented further water damage. Lifesavers!",
+        "date": "2024-12-24"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami Plumbers | Home Pros Of Miami",
+        "description": "Reliable plumbing services in Miami, FL. 24/7 emergency service, leak detection, drain cleaning, and more. Call Home Pros Of Miami, Inc., today!"
+      },
+      "about": {
+        "title": "About Home Pros Of Miami, Inc.",
+        "description": "Learn about Home Pros Of Miami, Inc., our commitment to quality plumbing services, and our dedication to the Miami community."
+      },
+      "services": {
+        "title": "Plumbing Services | Home Pros Of Miami",
+        "description": "Comprehensive plumbing services in Miami, FL. Leak detection, drain cleaning, water heater repair, and more. Contact us for a free estimate."
+      },
+      "contact": {
+        "title": "Contact Home Pros Of Miami, Inc.",
+        "description": "Contact Home Pros Of Miami, Inc., for reliable plumbing services in Miami, FL. Call us or fill out our online form to request a free estimate."
+      },
+      "reviews": {
+        "title": "Home Pros Of Miami, Inc. Reviews",
+        "description": "Read reviews from satisfied customers of Home Pros Of Miami, Inc., your trusted plumbing experts in Miami, FL."
+      },
+      "service-areas": {
+        "title": "Plumbing Service Areas | Miami, FL",
+        "description": "Home Pros Of Miami, Inc., provides plumbing services throughout Miami-Dade and Broward counties. Find out if we service your area today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "leak-detection": "/images/service-leak-detection.webp",
+      "drain-cleaning": "/images/service-drain-cleaning.webp",
+      "water-heater-repair": "/images/service-water-heater-repair.webp",
+      "pipe-repair-replacement": "/images/service-pipe-repair-replacement.webp",
+      "sewer-line-services": "/images/service-sewer-line-services.webp",
+      "fixture-installation": "/images/service-fixture-installation.webp",
+      "emergency-plumbing": "/images/service-emergency-plumbing.webp"
+    },
+    "servicesResponsive": {
+      "leak-detection": {
+        "src": "/images/service-leak-detection.webp",
+        "srcset": "/images/service-leak-detection-400w.webp 400w, /images/service-leak-detection-800w.webp 800w, /images/service-leak-detection-1200w.webp 1200w, /images/service-leak-detection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drain-cleaning": {
+        "src": "/images/service-drain-cleaning.webp",
+        "srcset": "/images/service-drain-cleaning-400w.webp 400w, /images/service-drain-cleaning-800w.webp 800w, /images/service-drain-cleaning-1200w.webp 1200w, /images/service-drain-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "water-heater-repair": {
+        "src": "/images/service-water-heater-repair.webp",
+        "srcset": "/images/service-water-heater-repair-400w.webp 400w, /images/service-water-heater-repair-800w.webp 800w, /images/service-water-heater-repair-1200w.webp 1200w, /images/service-water-heater-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pipe-repair-replacement": {
+        "src": "/images/service-pipe-repair-replacement.webp",
+        "srcset": "/images/service-pipe-repair-replacement-400w.webp 400w, /images/service-pipe-repair-replacement-800w.webp 800w, /images/service-pipe-repair-replacement-1200w.webp 1200w, /images/service-pipe-repair-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "sewer-line-services": {
+        "src": "/images/service-sewer-line-services.webp",
+        "srcset": "/images/service-sewer-line-services-400w.webp 400w, /images/service-sewer-line-services-800w.webp 800w, /images/service-sewer-line-services-1200w.webp 1200w, /images/service-sewer-line-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fixture-installation": {
+        "src": "/images/service-fixture-installation.webp",
+        "srcset": "/images/service-fixture-installation-400w.webp 400w, /images/service-fixture-installation-800w.webp 800w, /images/service-fixture-installation-1200w.webp 1200w, /images/service-fixture-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-plumbing": {
+        "src": "/images/service-emergency-plumbing.webp",
+        "srcset": "/images/service-emergency-plumbing-400w.webp 400w, /images/service-emergency-plumbing-800w.webp 800w, /images/service-emergency-plumbing-1200w.webp 1200w, /images/service-emergency-plumbing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
